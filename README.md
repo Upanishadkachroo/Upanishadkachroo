@@ -13,3 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=upanishadkachroo&show_icons=true&locale=en&layout=compact" alt="upanishadkachroo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upanishadkachroo&" alt="upanishadkachroo" /></p>
+
+[![An image of @upanishadkachroo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/upanishadkachroo)](https://holopin.io/@upanishadkachroo)
